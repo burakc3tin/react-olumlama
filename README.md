@@ -6,7 +6,7 @@
 
 ### `Canlı Ortam`
 
- [Click to go to live project
+ [Siteye Giriş
 ](https://react-olumlama-burak.herokuapp.com/) 
 
 ### `Ekran Görüntüleri`
