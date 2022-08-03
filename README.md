@@ -8,9 +8,6 @@
 
  [Siteye Giriş
 ](https://react-olumlama-burak.herokuapp.com/) 
-
-### `Ekran Görüntüleri`
-
-![alt text](https://i.hizliresim.com/jl403ei.jfif)
+ 
 
 
