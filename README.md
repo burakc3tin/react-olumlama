@@ -11,6 +11,6 @@
 
 ### `Ekran Görüntüleri`
 
-![alt text](https://i.hizliresim.com/90np2ch.PNG)
+![alt text](https://i.hizliresim.com/jl403ei.jfif)
 
 
