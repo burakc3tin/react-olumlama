@@ -7,7 +7,7 @@
 ### `Canlı Ortam`
 
  [Siteye Giriş
-](https://react-olumlama-burak.herokuapp.com/) 
+](https://olumlama.netlify.app/) 
  
 
 
