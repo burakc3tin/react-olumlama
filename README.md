@@ -9,5 +9,7 @@
  [Siteye Giriş
 ](https://olumlama.netlify.app/) 
  
+ ### `Ekran Görüntüleri`
+ <img src="https://i.hizliresim.com/bbab8d8.jpg" width=60% height=60%>
 
 
